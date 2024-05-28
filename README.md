@@ -28,8 +28,8 @@ Vascular lesion
 - Model 3: Final model showing promising results with good accuracy and validation accuracy. Augmentor library has been used to increase the sample data since there was data imblance.
 
 ## Acknowledgements
-I would like to thank Upgrad and IIIT Bangalore for giving me a chance to work on this project.
+I would like to thank Upgrad and IIIT Bangalore.
 
 
 ## Contact
-Created by Shibu Doberial - feel free to contact me!
+Created by Shibu Doberial 
